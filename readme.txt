@@ -1,6 +1,3 @@
-git is a distributed version control system
+git is distributed version control system
 git is free software distributed under the GPL
-
-zwy is sb
-
-yc is big sb 
+git has amutable index called stage
